@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# секреты — никогда не коммитим
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# локальные данные
+data/
+logs/
+media/
+
+# OS
+Thumbs.db
+.DS_Store

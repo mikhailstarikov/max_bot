@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+SQLAlchemy[asyncio]
+alembic
+aiosqlite
+httpx
+loguru
+click
+python-multipart
+jinja2
+pytest
+pytest-asyncio
+ruff
