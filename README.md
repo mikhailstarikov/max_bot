@@ -92,3 +92,7 @@
 - [ ] long-polling цикл для продакшена
 - [ ] веб-админка для контента
 - [ ] Docker и деплой
+
+## Другие проекты
+
+- [Telegram-бот для интернет-магазина](https://github.com/mikhailstarikov/telegram_habit_tracker_bot) — каталог, корзина и оформление заказов (aiogram, SQLite)
